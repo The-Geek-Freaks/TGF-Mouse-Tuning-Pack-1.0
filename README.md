@@ -1,5 +1,8 @@
 # TGF MOUSE TUNING PACK 1.0
 
+![GitHub language count](https://img.shields.io/github/languages/count/The-Geek-Freaks/TGF-Mouse-Tuning-Pack-1.0) ![GitHub top language](https://img.shields.io/github/languages/top/The-Geek-Freaks/TGF-Mouse-Tuning-Pack-1.0) ![Discord](https://img.shields.io/discord/397127284114325504) ![GitHub repo size](https://img.shields.io/github/repo-size/The-Geek-Freaks/TGF-Mouse-Tuning-Pack-1.0) ![GitHub All Releases](https://img.shields.io/github/downloads/The-Geek-Freaks/TGF-Mouse-Tuning-Pack-1.0/total) ![GitHub Pre-Releases](https://img.shields.io/github/downloads-pre/The-Geek-Freaks/TGF-Mouse-Tuning-Pack-1.0/latest/total) ![GitHub issues](https://img.shields.io/github/issues-raw/The-Geek-Freaks/TGF-Mouse-Tuning-Pack-1.0) ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Offline&up_color=blue&up_message=Online&url=https%3A%2F%2Ftuning-pack.de) ![GitHub forks](https://img.shields.io/github/forks/The-Geek-Freaks/TGF-Mouse-Tuning-Pack-1.0?style=social) ![GitHub stars](https://img.shields.io/github/stars/The-Geek-Freaks/TGF-Mouse-Tuning-Pack-1.0?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/The-Geek-Freaks/TGF-Mouse-Tuning-Pack-1.0?style=social) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/The-Geek-Freaks/TGF-Mouse-Tuning-Pack-1.0?include_prereleases)
+
+
 ### WAS IST ES?
 
 DAS TGF MOUSE TUNING PACK ist ein Tool, welches die die Mauszeigerbeschleunigung von Windows 7, 8, 8.1 oder 10 entfernt.
